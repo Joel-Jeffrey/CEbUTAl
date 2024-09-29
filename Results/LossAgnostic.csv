@@ -1,0 +1,8 @@
+Model,Without Uncertainty and Confidence,,,,,,,With Uncertainty and Confidence,,,,,,
+,Majority Class (ICH -),,Minority Class (ICH +),,Sensitivity,Specificity,Accuracy,Majority Class (ICH -),,Minority Class (ICH +),,Sensitivity,Specificity,Accuracy
+,Precision,F1-Score,Precision,F1-Score,,,,Precision,F1-Score,Precision,F1-Score,,,
+SqueezeNet 1.0,0.3535,0.5216,0.9977,0.7049,0.5450,0.9950,0.6350,0.8443,0.6398,0.8895,0.9309,0.9762,0.5150,0.8840 (39.21%)
+ResNet34,0.4161,0.5842,0.9924,0.7901,0.6562,0.9800,0.7210,0.8176,0.6954,0.9073,0.9358,0.9663,0.6050,0.8940 (23.82%)
+DenseNet201,0.3690,0.5391,1.0000,0.7281,0.5725,1.0000,0.6580,0.8319,0.6006,0.8805,0.9259,0.9762,0.4700,0.8750 (32.98%)
+MobileNetv2,0.4016,0.5731,1.0000,0.7711,0.6275,1.0000,0.7020,0.8322,0.6939,0.9055,0.9366,0.9700,0.5950,0.8950 (27.49%)
+Inceptionv3,0.3665,0.5357,0.9978,0.7255,0.5700,0.9950,0.6650,0.8321,0.6766,0.9003,0.9345,0.9712,0.5700,0.8910 (36.03%)
