@@ -1,2 +1,2 @@
 # CEbUTAl-TMI
-Code and Results submitted to TMI
+Code and Results submitted to CMIG
