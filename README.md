@@ -6,11 +6,13 @@ Advances in AI and machine learning have transformed medical image analysis, imp
 
 ## News
 
-**[Date]:** Any important updates, announcements, or release notes here. 
+<!--- [2024-10-01] Released version 2.0 with new features including ...-->
 
-- [2024-10-01] Released version 2.0 with new features including ...
-- [2024-09-15] Major bug fixes in the model architecture...
-- [2024-08-30] Published our preprint on arXiv [link to paper].
+## Usage
+
+All the requirements have been put in the requirements.txt file
+
+```pip install -r requirements.txt```
 
 ## Installation
 
