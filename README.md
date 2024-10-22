@@ -12,11 +12,31 @@ Advances in AI and machine learning have transformed medical image analysis, imp
 
 All the requirements have been put in the requirements.txt file
 
-```pip install -r requirements.txt```
+```pip install -r Code/General/requirements.txt```
 
-## Installation
+## Project Summary
+The following models were trained and evaluated with and without CEbUTAl
+- SqueezeNet 1.0
+- ResNet34
+- DenseNet201
+- MobileNetV2
+- InceptionV3
 
-Instructions on how to install and set up the project. Include any system requirements, dependencies, and detailed steps.
+Loss functions used were
+- Cross entropy loss
+
+Datasets used
+- [RSNA Intracranial Hemorrhage Detection 2019](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview)
+- [Retinal OCT Images (UCSD Dataset)](https://www.kaggle.com/datasets/paultimothymooney/kermany2018)
+- [RSNA Screening Mammography Breast Cancer Detection 2023](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview)
+
+Studies were done in comparison with popular data imbalance mitigation methods such as
+- Data Augmentation
+- Focal loss
+
+Comparison with other uncertainty quantification methods such as Monte Carlo Dropout (MCDO), Deep Ensembles, and Ensemble MCDO were also done.
+
+## Acknowledgements
 
 ```bash
 # Clone the repository
