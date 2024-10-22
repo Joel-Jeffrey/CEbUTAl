@@ -2,17 +2,6 @@
 This is the official repository for CEbUTAl: A Confidence and Entropy based Uncertainty Thresholding Algorithm.
 
 
-- [News](#news)
-- [](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
-- [References](#references)
-
-## Overview
-
-Provide an overview of the project, its goals, and any important context. Include screenshots or diagrams if applicable.
-
 ## News
 
 **[Date]:** Any important updates, announcements, or release notes here. 
