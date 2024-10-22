@@ -37,13 +37,6 @@ Studies were done in comparison with popular data imbalance mitigation methods s
 Comparison with other uncertainty quantification methods such as Monte Carlo Dropout (MCDO), Deep Ensembles, and Ensemble MCDO were also done.
 
 ## Acknowledgements
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/projectname.git
-
-# Navigate to the project directory
-cd projectname
-
-# Install the required dependencies
-pip install -r requirements.txt
++ This work was done at the Medical Imaging Group at the Department of Computational and Data Sciences, Indian Institute of Science.
++ We highly appreciate RSNA and dataset owners for providing the public dataset to the community.
++ We also thank Qatar University and Shell Qatar for partly funding this work.
