@@ -39,4 +39,3 @@ Comparison with other uncertainty quantification methods such as Monte Carlo Dro
 ## Acknowledgements
 + This work was done at the Medical Imaging Group at the Department of Computational and Data Sciences, Indian Institute of Science.
 + We highly appreciate RSNA and dataset owners for providing the public dataset to the community.
-+ We also thank Qatar University and Shell Qatar for partly funding this work.
