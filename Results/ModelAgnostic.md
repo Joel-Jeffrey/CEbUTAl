@@ -1,4 +1,4 @@
-| Model | Baseline |  |  |  |  | CEbUTAI |  |  |  |  |
+| Model | Baseline ||||| CEbUTAI |||||
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |  | Precision | Sensitivity | Specificity | F1-Score | Accuracy | Precision | Sensitivity | Specificity | F1-Score | Accuracy |
 | SqueezeNet 1.0 | 0.8586 | 0.6388 | 0.9900 | 0.7748 | 0.8144 | 0.8658 | 0.8762 | 0.8550 | 0.8670 | 0.8656 (5.1%) |
