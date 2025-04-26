@@ -31,7 +31,7 @@ Datasets used
 - [RSNA Intracranial Hemorrhage Detection 2019](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview)
 - [Retinal OCT Images (UCSD Dataset)](https://www.kaggle.com/datasets/paultimothymooney/kermany2018)
 - [RSNA Screening Mammography Breast Cancer Detection 2023](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview)
-- A proprietary clinical dataset for the median nerve
+- A proprietary clinical dataset
 - [MedMNIST2's DermaMNIST](https://zenodo.org/records/10519652)
 
 Studies were done in comparison with popular data imbalance mitigation methods such as
