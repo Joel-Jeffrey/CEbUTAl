@@ -1,5 +1,6 @@
 # CEbUTAl
-This is the official repository for CEbUTAl: A Confidence and Entropy-based Uncertainty Thresholding Algorithm.
+This is the official repository for [CEbUTAl: A Confidence and Entropy-based Uncertainty Thresholding Algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0895611125001399)
+
 
 ## About CEbUTAl
 Advances in AI and machine learning have transformed medical image analysis, improving diagnostic accuracy, image quality, and measurements. However, the "black-box" nature of deep learning models raises trust and ethical concerns. To address this, we introduce CEbUTAl (Confidence and Entropy-based Uncertainty Thresholding Algorithm), which enhances explainability without compromising performance by adjusting predictions based on uncertainty. CEbUTAl improves classification accuracy to 84% in intracranial hemorrhage detection, 94% in optical coherence tomography, 73% in breast cancer detection, and 63% in multi-class skin lesion classification. Its real-time uncertainty correction enhances model transparency, making it a valuable tool for trustworthy clinical decision-making.
